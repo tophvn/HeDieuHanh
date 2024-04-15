@@ -14,4 +14,7 @@ docker build -t reloj:tag .
 docker run -d -p 8080:80 reloj:tag
 ```
 ### B4: Container đã được them và khởi chạy thành công.
-### B5: Truy cập vào trang web vừa deploy bằng cách truy cập ``` http://localhost:8080/ ```
+### B5: Truy cập vào trang web vừa deploy bằng cách truy cập 
+```
+http://localhost:8080/ 
+```
